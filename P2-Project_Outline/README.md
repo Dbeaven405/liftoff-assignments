@@ -21,6 +21,6 @@ Create Post: Users will be able to create posts about their experience at the pa
 * Hibernate
 * Thymeleaf templates
 ### What I'll Have to Learn
-I need to learn how to get the NPS api to connect to my program. 
+I need to learn how to get the NPS api to connect to my program. Also ill need to learn more on Thymeleaf
 ### Project Tracker
 https://trello.com/b/shAjqbzp/lc-liftoff
