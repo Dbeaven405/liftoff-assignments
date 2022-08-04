@@ -12,6 +12,6 @@ https://github.com/Dbeaven405?tab=repositories
 ### LinkedIn
 https://www.linkedin.com/in/andrew-beaven-032ba123a/
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
+https://docs.google.com/document/d/1v1VybbX22XoCA9wj1Ldfsu6Rxxlk4pUphY9FgS8KUu0/edit
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
