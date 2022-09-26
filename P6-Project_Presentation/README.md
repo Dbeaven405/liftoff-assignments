@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+file:///C:/Users/drew/Downloads/Andrew%20Park-Somewhere.pdf
